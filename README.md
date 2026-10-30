@@ -1,8 +1,8 @@
 # Hi, I'm Srijan 👋
 
-B.Tech student at **IIT Kharagpur** (Agricultural & Food Engineering), building toward **AI Engineer** roles. I build LLM-powered products end to end: from retrieval and agents to backend, frontend, and deployment.
+B.Tech student at **IIT Kharagpur** , building toward **AI Engineer** roles. I build LLM-powered products end to end: from retrieval and agents to backend, frontend, and deployment.
 
-📍 Kharagpur, India · 🎓 Graduating 2027 · 📫 <your-email>
+📍 Kharagpur, India ·  · 📫 <info.srijankr@gmail.com>
 
 ---
 
